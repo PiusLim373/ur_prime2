@@ -1,0 +1,12 @@
+[submodule "src/Universal_Robots_ROS2_GZ_Simulation"]
+	path = src/Universal_Robots_ROS2_GZ_Simulation
+	url = https://github.com/PiusLim373/Universal_Robots_ROS2_GZ_Simulation.git
+	branch = prime2_humble
+[submodule "src/Universal_Robots_ROS2_Driver"]
+	path = src/Universal_Robots_ROS2_Driver
+	url = https://github.com/PiusLim373/Universal_Robots_ROS2_Driver.git
+	branch = prime2_humble
+[submodule "src/Universal_Robots_ROS2_Description"]
+	path = src/Universal_Robots_ROS2_Description
+	url = https://github.com/PiusLim373/Universal_Robots_ROS2_Description.git
+	branch = prime2_humble

@@ -1,0 +1,4 @@
+float64[] offset  # [x, y, z, roll, pitch, yaw]
+---
+bool success
+string message
